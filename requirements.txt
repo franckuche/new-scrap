@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+spacy
+fr_core_news_sm
+nltk
+tenacity
+robotexclusionrulesparser
+urllib3
+sklearn
